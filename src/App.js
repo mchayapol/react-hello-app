@@ -13,6 +13,9 @@ class App extends Component {
         <p className="App-intro">
           Lorem Ipsum is simply dummy text of the printing and typesetting
         </p>
+        <p className="App-intro">
+          <img src="https://blog.tinned-software.net/wp-content/uploads/git-branches-1.png" />
+        </p>
       </div>
     );
   }
