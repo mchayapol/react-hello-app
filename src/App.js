@@ -8,7 +8,7 @@ class App extends Component {
       <div className="App">
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h2>React MASTER</h2>
+          <h2>React HOTFIX</h2>
         </div>
         <p className="App-intro">
           Lorem Ipsum is simply dummy text of the printing and typesetting
